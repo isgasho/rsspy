@@ -5,7 +5,6 @@ edition = "2021"
 description = "Yet another CUP and Heap profiler for Rust Programming Language."
 license = "Apache-2.0"
 repository = "https://github.com/hi-rustin/rsspy"
-license-file = "LICENSE"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
